@@ -1,16 +1,17 @@
+# The script helps look through each security configs and policies for action defined on Command injection Attack group and for KRS rule ID 3000014
+# Minimal error handling, use at your risk
 import requests
-
 import json
 from akamai.edgegrid import EdgeGridAuth
 #Enter SwitchKey below
 skey=""
-#Enter API creds
-baseurl = ''
+#Enter API creds below
+baseurl = 'HOST'
 s = requests.Session()
 s.auth = EdgeGridAuth(
-client_secret = '',
-access_token = '',
-client_token = ''
+client_secret = 'SECRET KEY',
+access_token = 'TOKEN',
+client_token = 'TOKEN'
 )
 # PULL CONFIGURATIONS
 config=s.get(baseurl + ("/appsec/v1/configs?accountSwitchKey="+skey) , headers = {'PAPI-Use-Prefixes': 'true'})
