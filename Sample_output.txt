@@ -1,0 +1,16 @@
+Config Name: NAME_1
+ Policy Name:**** , WAF Mode:KRS , KRS rule 3000014 set to alert mode, Attack Group is in deny mode. KRS Ruleset Version:KRS 1.0 (May 26, 2020)
+ Policy Name:**** , WAF Mode:KRS , KRS rule 3000014 set to alert mode, Attack Group is in deny mode. KRS Ruleset Version:KRS 1.0 (Sep 14, 2020)
+ Policy Name:**** , WAF Mode:AAG , Command Injection Mode: alert
+ Policy Name:**** , WAF Mode:KRS , KRS rule 3000014 set to alert mode, Attack Group is in deny mode. KRS Ruleset Version:KRS 1.0 (May 26, 2020)
+ Policy Name:**** , WAF Mode:KRS , KRS rule 3000014 set to alert mode, Attack Group is in alert mode. KRS Ruleset Version:KRS 1.0 (Sep 14, 2020)
+ Policy Name:**** , WAF Mode:KRS , KRS rule 3000014 set to alert mode, Attack Group is in deny mode. KRS Ruleset Version:KRS 1.0 (Oct 15, 2020)
+
+ Config Name: NAME_2
+ Policy Name:**** , WAF Mode:KRS , KRS rule 3000014 set to alert mode, Attack Group is in deny mode. KRS Ruleset Version:KRS 1.0 (May 26, 2020)
+ Policy Name:**** , WAF Mode:KRS , KRS rule 3000014 set to alert mode, Attack Group is in deny mode. KRS Ruleset Version:KRS 1.0 (Mar 08, 2021)
+ Policy Name:**** , WAF Mode:KRS , KRS rule 3000014 set to alert mode, Attack Group is in deny mode. KRS Ruleset Version:KRS 1.0 (Sep 14, 2020)
+ Policy Name:**** , WAF Mode:KRS , KRS rule 3000014 set to alert mode, Attack Group is in deny mode. KRS Ruleset Version:KRS 1.0 (Sep 14, 2020)
+ Policy Name:**** , WAF Mode:KRS , KRS rule 3000014 set to alert mode, Attack Group is in deny mode. KRS Ruleset Version:KRS 1.0 (May 26, 2020)
+ Policy Name:**** , WAF Mode:KRS , KRS rule 3000014 set to alert mode, Attack Group is in deny mode. KRS Ruleset Version:KRS 1.0 (Sep 14, 2020)
+ Policy Name:**** , WAF Mode:KRS , KRS rule 3000014 set to alert mode, Attack Group is in deny mode. KRS Ruleset Version:KRS 1.0 (May 26, 2020)
