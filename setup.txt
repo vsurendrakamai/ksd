@@ -1,8 +1,11 @@
+This script can help pull below mentioned information from all KSD configurations/policies from an account
+> WAF mode
+> KRS ruleset version
+> Action set on Command Injection Attack group
+> Action set on rule ID:3000014 and respective Attack Group 
+
 Before executing the code you should,
-
 - Fetch Switchkey for specific account and update line number 7 in the code
-
 - Download your API credentials and update lines 9,12,13,14 with respective values in the code
-
 
 NOTE: Since the action “Risk Scoring” is not defined in API resource, you will see “alert” value in output for rules with action “Risk Scoring”.
