@@ -1,5 +1,3 @@
-
-
 Before executing the code you should,
 
 - Fetch Switchkey for specific account and update line number 7 in the code
