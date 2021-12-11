@@ -1,0 +1,10 @@
+
+
+Before executing the code you should,
+
+- Fetch Switchkey for specific account and update line number 7 in the code
+
+- Download your API credentials and update lines 9,12,13,14 with respective values in the code
+
+
+NOTE: Since the action “Risk Scoring” is not defined in API resource, you will see “alert” value in output for rules with action “Risk Scoring”.
